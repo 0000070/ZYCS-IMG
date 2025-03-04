@@ -42,6 +42,6 @@ English | [简体中文](https://github.com/uxiaohan/ZYCS-IMG/blob/main/README_C
 
 - No need to buy a domain name, you can use the free second-level domain name `*.pages.dev` provided by `Cloudflare Pages`, and it also supports binding custom domain names
 
-### Project address
+### Reference item
 
 [ZYCS-IMG - Github](https://github.com/uxiaohan/ZYCS-IMG)
